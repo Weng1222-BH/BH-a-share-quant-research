@@ -13,12 +13,12 @@
 | Current Stage | Stage 0 — 量化世界观 |
 | Current Substage | 尚未开始 |
 | Current Session | 尚未开始 |
-| Status | Ready |
+| Status | Ready — awaiting explicit user confirmation |
 | 市场 | A股 |
 | 周投入 | 约 9 小时 |
 | Session 时长 | 约 1.5–2 小时，弹性安排 |
-| 当前任务 | 准备规划并开始 Stage 0 第一个 Substage；尚未执行教学 |
-| 下一任务 | 规划并开始 Stage 0 第一个 Substage |
+| 当前任务 | 等待用户确认正式进入 Stage 0；尚未执行教学 |
+| 下一任务 | 用户确认后，规划并开始 Stage 0 第一个 Substage |
 | 当前工具主线 | Python + AKShare + RQAlpha；后期按需要引入 Qlib；暂不提前引入复杂交易系统 |
 | 工具与数据核验状态 | 尚未开展项目环境、接口和数据核验；选型不代表环境已安装或验证完成 |
 | Stage Gate 状态 | Stage 0：未开始；Stage 1–7：未开始 |
@@ -32,7 +32,7 @@
 | 策略版本 | 未创建（无实际策略代码、无策略版本） |
 | 模拟盘状态 | 未开始（无模拟运行或结果） |
 | 最近一次路线复核 | 2026-08-27：按已确认规则建立主线框架；仅为初始化对齐，不代表已完成最新实践、模型或工具的外部核验 |
-| 最近更新时间 | 2026-08-27T23:52:43+08:00（Asia/Shanghai） |
+| 最近更新时间 | 2026-08-28T00:07:52+08:00（Asia/Shanghai） |
 
 ## 已完成内容
 
